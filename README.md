@@ -1,4 +1,4 @@
-# Book Recommender by farhana
+# Book Recommender
 React web app using the NYTimes Book API to recommend the user a random best selling book based on the current date.
 
 README Under Construction
